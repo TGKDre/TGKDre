@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @TGKDre
-- 👀 I’m interested in cybersecurity, specifically Identity Access Management (IAM) and Government, Risk, and Compliance (GRC)
+- 👀 I’m interested in cybersecurity, specifically Identity Access Management (IAM)
 - 🌱 I’m currently learning no-code
 - 💞️ I’m looking to collaborate on cybersecurity projects and work
 - 📫 How to reach me is through my email andre.obiuzo@gmail.com
