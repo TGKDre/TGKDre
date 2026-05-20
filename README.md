@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TGKDre
-- 👀 I’m interested in cybersecurity, specifically Identity Access Management (IAM)
-- 🌱 I’m currently learning no-code
+- 👀 I’m interested in cybersecurity, and the intersection between the cyber-frontier and AI, especially agents.
+- 🌱 I’m currently optimizing Theo, my personal AI agent.
 - 💞️ I’m looking to collaborate on cybersecurity projects and work
 - 📫 How to reach me is through my email andre.obiuzo@gmail.com
 - 😄 Pronouns: He/Him
