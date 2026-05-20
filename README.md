@@ -1,7 +1,7 @@
 # Andre Uzoukwu
 ### IAM Engineer · Cybersecurity Researcher · Cloud Infrastructure
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Andre%20Uzoukwu-0077B5?style=flat&logo=linkedin)](https://linkedin.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Andre%20Uzoukwu-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/andre-uzoukwu-tgkdre/)
 [![Email](https://img.shields.io/badge/Email-andre.obiuzo%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:andre.obiuzo@gmail.com)
 
 ---
@@ -34,6 +34,19 @@ Currently pursuing **CompTIA Security+** and deepening my hands-on work in self-
 **Security** — SIEM (Splunk), Incident Response, Adversarial LLM Research, Prompt Injection, Red Teaming
 
 **Systems & Scripting** — Ubuntu Linux 22.04 LTS, Bash, Python, YAML, SSH, Git
+
+---
+
+## GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=TGKDre&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TGKDre&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="165" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=TGKDre&theme=tokyonight&hide_border=true" height="150" />
+</p>
 
 ---
 
