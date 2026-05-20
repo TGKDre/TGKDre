@@ -1,5 +1,5 @@
 # Andre Uzoukwu
-### IAM Engineer · Cybersecurity Researcher · Cloud Infrastructure
+### IAM Analyst · AI Researcher · Cloud Infrastructure
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Andre%20Uzoukwu-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/andre-uzoukwu-tgkdre/)
 [![Email](https://img.shields.io/badge/Email-andre.obiuzo%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:andre.obiuzo@gmail.com)
