@@ -8,7 +8,7 @@
 
 I build and break identity systems. My work sits at the intersection of IAM architecture, cloud security, and adversarial AI research. I design production-grade access control infrastructure and run red-team evaluations against LLM-based agents to find the trust boundaries that pattern-based defenses cannot close.
 
-Currently pursuing **CompTIA Security+** and deepening my hands-on work in self-hosted SSO, SIEM deployment, and autonomous AI security tooling.
+Currently deepening my hands-on work in self-hosted SSO, SIEM deployment, and autonomous AI security tooling.
 
 ---
 
