@@ -54,7 +54,6 @@ Currently deepening my hands-on work in self-hosted SSO, SIEM deployment, and au
 
 - Expanding adversarial AI research through the [llm-redteam-portfolio](https://github.com/TGKDre/llm-redteam-portfolio)
 - Deepening SIEM and Splunk deployment skills
-- Preparing for CompTIA Security+ exam
 - Growing [GoldenWorks](https://github.com/TGKDre), my government contracting and IT services business
 
 ---
